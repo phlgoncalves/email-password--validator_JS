@@ -5,7 +5,7 @@ Projeto de estudo criando validações de caracteres para treinar expressões re
 ![validator](https://github.com/user-attachments/assets/6278197e-b897-48a8-94e2-c21045d3fdfb)
 
 
-## Aprendizados
+## 📖 Aprendizados
 
 - Expressões Regulares
 - Tratamento de Erros
