@@ -1,6 +1,6 @@
 # Validador de E-mail e Senha (caracteres)
 
-Projeto de estudo criando validações de caracteres para treinar expressões regulares e tratamentos de erros. Neste projeto para validação precisa digitar o padrão do e-mail (nome@mail.com) e na precisa senha conter pelo menos uma letra maiúscula, um carácter especial, um número totalizando mais de 8 caracteres.
+Projeto de estudo criando validações de caracteres para treinar expressões regulares e tratamentos de erros. Neste projeto para validação precisa digitar o padrão do e-mail (nome@mail.com) e na senha precisa conter pelo menos uma letra maiúscula, um carácter especial, um número totalizando mais de 8 caracteres.
 
 ![validator](https://github.com/user-attachments/assets/6278197e-b897-48a8-94e2-c21045d3fdfb)
 
